@@ -1,0 +1,10 @@
+.header {
+  color: blueviolet;
+}
+.section {
+  border-style: solid;
+  border-bottom: thick dotted #ff0000;
+}
+.footer {
+  text-shadow: 2px 2px darkcyan;
+}
